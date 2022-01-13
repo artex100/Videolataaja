@@ -10,4 +10,4 @@
 Lisättiin tarkastus versio tiedostolle ja mahdollisuus uusimman version lataamiseen
 
 ### v2.5.29
-Lisättiin latausmahdollisuus .mp4 tiedostoille
+Lisättiin lataus mahdollisuus .mp4 tiedostoille
