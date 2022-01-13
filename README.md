@@ -1,6 +1,6 @@
 # YouTube videoiden lataaja
 
-![version](https://img.shields.io/badge/version-v2.5.32-blue)
+![version](https://img.shields.io/badge/version-v2.5.34-blue)
 [![Download][Download-badge]][Download-link]
 
 [Download-badge]: https://img.shields.io/badge/Lataa-v2.5.32%20-orange
