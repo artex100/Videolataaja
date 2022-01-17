@@ -1,6 +1,6 @@
 # YouTube videoiden lataaja
 
-![version](https://img.shields.io/github/v/release/artex100/laturi)
+![version](https://img.shields.io/github/v/release/artex100/Videolataaja)
 [![Download][Download-badge]][Download-link]
 ![Downloads](https://img.shields.io/github/downloads/artex100/Videolataaja/total)
 
