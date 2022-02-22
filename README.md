@@ -10,6 +10,9 @@
 ## VirusTotal
 https://www.virustotal.com/gui/url/f4c83e2b4ab04d6d27d19f2a65095959c9be5fc0bc020cd3cb4bf70664a3c0d2/detection
 
+### v.2.5.35
+Korjattiin sovelluksen ongelmia ja tehtiin pieniä muutoksia
+
 ### v2.5.34
 Lisättiin tarkastus versio tiedostolle ja mahdollisuus uusimman version lataamiseen
 
